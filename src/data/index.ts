@@ -31,7 +31,7 @@ export const LINKS = [
     url: 'https://drive.google.com/file/d/1YYNfQh3dKk6Uk9PdL3M_xp5PfDygQZZR/view',
     icon: FileTextIcon,
   },
-  { title: 'Email', url: 'mailto:gonzzaparra@gmail.com', icon: MailIcon },
+  { title: 'Email', url: 'mailto:itmasterdesigne@gmail.com', icon: MailIcon },
   { title: 'Discord', url: 'https://discord.com/users/268899316075069440', icon: DiscordIcon },
 ];
 
@@ -103,8 +103,8 @@ export const PROJECTS = [
     title: 'Jotter',
     tags: [TAGS.REACT, TAGS.NEXT, TAGS.NODE, TAGS.TYPESCRIPT, TAGS.TAILWIND, TAGS.SHADCN],
     link: {
-      github: 'https://github.com/gonzalojparra/jotter',
-      preview: 'https://jotter-gonzalojparra.vercel.app/',
+      github: 'https://github.com/amxsupport/Fitness_Sphere',
+      preview: 'https://fitsphere.vercel.app',
     },
     image: '/assets/projects/jotter.webp',
   },
@@ -120,7 +120,7 @@ export const PROJECTS = [
       TAGS.SHADCN,
     ],
     link: {
-      github: 'https://github.com/gonzalojparra/ehwaz-front',
+      github: 'https://github.com/amxsupport/E-Lyrics',
     },
     image: '/assets/projects/ehwaz.webp',
   },
@@ -128,7 +128,7 @@ export const PROJECTS = [
     title: 'Zen-Kicks',
     tags: [TAGS.LARAVEL, TAGS.PHP, TAGS.TAILWIND],
     link: {
-      github: 'https://github.com/gonzalojparra/zen-kicks',
+      github: 'https://github.com/amxsupport/AirBnB_clone_v4',
     },
     image: '/assets/projects/zen-kicks.webp',
   },
