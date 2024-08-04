@@ -126,7 +126,7 @@ export const PROJECTS = [
     image: '/assets/projects/ehwaz.webp',
   },
   {
-    title: 'Zen-Kicks',
+    title: 'AirBnB_clone',
     tags: [TAGS.LARAVEL, TAGS.PHP, TAGS.TAILWIND],
     link: {
       github: 'https://github.com/amxsupport/AirBnB_clone_v4',

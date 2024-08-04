@@ -77,7 +77,7 @@
       "E-Lyrics": {
         "description": "A full-stack personal trainers system that allows trainers to manage their clients, workouts, and nutrition plans. It also allows clients to track their progress and communicate with their trainers."
       },
-      "Zen-Kicks": {
+      "AirBnB_clone": {
         "description": "A full-stack taekwondo tournaments administrator system. It allows administrators to manage tournaments, categories, competitors and judges. It also allows competitors to register for tournaments."
       }
     }

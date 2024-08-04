@@ -77,7 +77,7 @@
       "E-Lyrics": {
         "description": "Un sistema full-stack para personal trainers que les permite llevar a cabo la administración, asignar entrenamientos y planes de alimentación a sus alumnos. También lesp permite a los alumnos trackear su progreso y comunicarse con sus entrenadores."
       },
-      "Zen-Kicks": {
+      "AirBnB_clone": {
         "description": "Una aplicación full-stack para administrar competencias y torneos de taekwondo. Les permite a los administradores organizar categorias, competidores y jueces."
       }
     }
