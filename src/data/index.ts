@@ -109,7 +109,7 @@ export const PROJECTS = [
     image: '/assets/projects/jotter.webp',
   },
   {
-    title: 'Ehwaz',
+    title: 'E-Lyrics',
     tags: [
       TAGS.REACT,
       TAGS.NEXT,
@@ -121,6 +121,7 @@ export const PROJECTS = [
     ],
     link: {
       github: 'https://github.com/amxsupport/E-Lyrics',
+      preview: 'https://fitsphere.vercel.app',
     },
     image: '/assets/projects/ehwaz.webp',
   },
