@@ -10,7 +10,7 @@ export function ContactEmailTemplate({
     <div className='overflow-hidden rounded-lg bg-white shadow-lg dark:bg-neutral-900'>
       <header className='flex items-center justify-between bg-neutral-100 px-6 py-4 dark:bg-neutral-800'>
         <div className='flex items-center gap-2'>
-          <span className='text-lg font-semibold'>Gonzalo Parra | Portfolio</span>
+          <span className='text-lg font-semibold'>Abdelaaziz Amksa | Portfolio</span>
         </div>
       </header>
       <div className='space-y-4 p-6'>

@@ -24,11 +24,11 @@ export async function Hero() {
 
       <div className='flex flex-row items-center gap-4'>
         <h1 className='flex text-balance text-4xl font-bold text-neutral-900 dark:text-neutral-100'>
-          Gonzalo Parra
+          Abdelaaziz Amksa
         </h1>
         <Link
           className='hidden rounded-full md:flex'
-          href='https://www.linkedin.com/in/gonzalojparra/'
+          href='https://www.linkedin.com/in/abdelaaziz-amksa-28689753/'
           rel='noopener noreferrer'
           target='_blank'
         >
@@ -44,7 +44,7 @@ export async function Hero() {
             <Link
               aria-label={t('about-section.open-to-work')}
               className='flex rounded-full transition-all duration-300 ease-in-out hover:scale-105 md:hidden'
-              href='https://www.linkedin.com/in/gonzalojparra/'
+              href='https://www.linkedin.com/in/abdelaaziz-amksa-28689753/'
               rel='noopener noreferrer'
               target='_blank'
             >

@@ -32,7 +32,7 @@
   },
   "about-section": {
     "open-to-work": "Open to work",
-    "title": "Front end developer, committed to creating user-centered solutions. Based in Neuquén, Argentina 🇦🇷",
+    "title": "Front end developer, committed to creating user-centered solutions. Based in Marrakech, Morroco 🇲🇦",
     "description": "Passionate about web technologies. I aim to create accessible, performant, and delightful experiences for users. I'm always looking to learn new things and improve my skills.",
     "activity": {
       "listening": "Listening to Spotify",
@@ -48,13 +48,13 @@
     "title": "Career & Works",
     "works": {
       "runesoft": {
-        "company": "Runesoft",
-        "badges": "Remote,Part-time",
-        "link": "https://github.com/rune-soft",
-        "title": "Software Developer & Co-Creator",
-        "start": "August 2023",
+        "company": "Reminex",
+        "badges": "Local,Full-time",
+        "link": "https://www.managemgroup.com",
+        "title": "Lims Administrator & Co-Creator",
+        "start": "March 2014",
         "end": "Present",
-        "description": "I'm currently developing Runesoft as a side project. I work on the front end, using technologies like React, Next.js, and TypeScript. I also work on the back end, using technologies like Laravel and Node.js."
+        "description": "Currently excelling as a LIMS Administrator at a leading research center REMINEX SA, where I apply my technical expertise to optimize laboratory operations and facilitate scientific research."
       },
       "universidad-nacional-del-comahue": {
         "company": "Universidad Nacional del Comahue",

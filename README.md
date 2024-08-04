@@ -39,8 +39,8 @@ The project is being developed with the following tech stack:
 ###### **Gonzalo Parra**
 
 - Website: https://portfolio-gonzalojparra.vercel.app/
-- GitHub: [@gonzalojparra](https://github.com/gonzalojparra)
-- LinkedIn: [@gonzalojparra](https://www.linkedin.com/in/gonzalojparra/)
+- GitHub: [@gonzalojparra](https://github.com/amxsupport)
+- LinkedIn: [@gonzalojparra](https://www.linkedin.com/in/abdelaaziz-amksa-28689753/)
 
 ###### 🤝 Special thanks to [@emapeire](https://github.com/emapeire/) for showcasing the main idea!
 

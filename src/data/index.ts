@@ -17,22 +17,22 @@ import { LinkedInIcon } from '@/components/icons/linkedin';
 import { DiscordIcon } from '@/components/icons/discord';
 
 export const AVATAR = {
-  name: 'Gonzalo Parra',
-  initials: 'GP',
+  name: 'Abdelaaziz Amksa',
+  initials: 'AA',
 };
 
-export const discordId = '654163755797577747';
+export const discordId = '268899316075069440';
 
 export const LINKS = [
-  { title: 'GitHub', url: 'https://github.com/gonzalojparra', icon: GitHubIcon },
-  { title: 'LinkedIn', url: 'https://www.linkedin.com/in/gonzalojparra/', icon: LinkedInIcon },
+  { title: 'GitHub', url: 'https://github.com/amxsupport', icon: GitHubIcon },
+  { title: 'LinkedIn', url: 'https://www.linkedin.com/in/abdelaaziz-amksa-28689753/', icon: LinkedInIcon },
   {
     title: 'Resume',
     url: 'https://drive.google.com/file/d/1YYNfQh3dKk6Uk9PdL3M_xp5PfDygQZZR/view',
     icon: FileTextIcon,
   },
   { title: 'Email', url: 'mailto:gonzzaparra@gmail.com', icon: MailIcon },
-  { title: 'Discord', url: 'https://discord.com/users/654163755797577747', icon: DiscordIcon },
+  { title: 'Discord', url: 'https://discord.com/users/268899316075069440', icon: DiscordIcon },
 ];
 
 const TAGS = {

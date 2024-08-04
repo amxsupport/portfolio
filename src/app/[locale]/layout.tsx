@@ -22,7 +22,7 @@ type Props = {
   };
 };
 
-const title = 'Gonzalo Parra | Portfolio';
+const title = 'Abdelaaziz Amksa | Portfolio';
 const description = 'My personal website, showcasing my work and skills.';
 const ogImage = 'https://portfolio-gonzalojparra.vercel.app/og-image.png';
 
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
       },
     ],
   },
-  creator: 'Gonzalo Parra',
+  creator: 'Abdelaaziz Amksa',
 };
 
 export default async function RootLayout({ children, params: { locale } }: Readonly<Props>) {

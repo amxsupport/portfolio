@@ -12,7 +12,7 @@ export function Footer() {
         <p>
           &copy; {year}
           <span className='me-2 ms-2'>•</span>
-          Gonzalo Parra
+          Abdelaaziz Amksa
           <span className='me-2 ms-2'>—</span>
           {t('footer.made-with')} ❤️
         </p>
