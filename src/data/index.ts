@@ -100,7 +100,7 @@ export const STACK = [
 
 export const PROJECTS = [
   {
-    title: 'Jotter',
+    title: 'Fitness_Sphere',
     tags: [TAGS.REACT, TAGS.NEXT, TAGS.NODE, TAGS.TYPESCRIPT, TAGS.TAILWIND, TAGS.SHADCN],
     link: {
       github: 'https://github.com/amxsupport/Fitness_Sphere',

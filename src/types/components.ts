@@ -40,7 +40,7 @@ export interface ProjectLinkProps {
   preview?: string;
 }
 
-type ProjectTitle = 'Jotter' | 'Ehwaz' | 'Zen-Kicks';
+type ProjectTitle = 'Fitness_Sphere' | 'Ehwaz' | 'Zen-Kicks';
 
 export interface ProjectProps {
   title: ProjectTitle;

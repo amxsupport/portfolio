@@ -71,7 +71,7 @@
   "projects-section": {
     "title": "Proyectos & Apps",
     "projects": {
-      "Jotter": {
+      "Fitness_Sphere": {
         "description": "Una aplicación full-stack que permite a los usuarios crear, editar, eliminar y compartir notas. También permite a los usuarios categorizar sus notas y buscarlas por título y contenido."
       },
       "Ehwaz": {
