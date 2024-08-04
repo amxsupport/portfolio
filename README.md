@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my Portfolio 🫡</h1>
+<h1 align="center">Welcome to my Portfolio </h1>
 
 <div align="center">
-<img alt="Abdelaaziz Amksa" src="public/" />
+<img alt="Abdelaaziz Amksa" src="public/readme.png" />
 </div>
 
 ## 🧉 About
