@@ -28,7 +28,7 @@ export const LINKS = [
   { title: 'LinkedIn', url: 'https://www.linkedin.com/in/abdelaaziz-amksa-28689753/', icon: LinkedInIcon },
   {
     title: 'Resume',
-    url: 'https://drive.google.com/file/d/1YYNfQh3dKk6Uk9PdL3M_xp5PfDygQZZR/view',
+    url: 'https://drive.google.com/file/d/1-tfJUjTbF-UAlbWu61ORV8wWMY6rSm9P/view?usp=sharing',
     icon: FileTextIcon,
   },
   { title: 'Email', url: 'mailto:itmasterdesigne@gmail.com', icon: MailIcon },
