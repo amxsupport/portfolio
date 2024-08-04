@@ -33,7 +33,7 @@
   "about-section": {
     "open-to-work": "Open to work",
     "title": "Backend Developer | Based in Marrakech, Morocco 🇲🇦",
-    "description": "I'm a dedicated backend developer with a passion for crafting user-centered solutions. With a strong focus on web technologies, I specialize in creating accessible, performant, and seamless experiences for users.",
+    "description": "I'm a dedicated backend developer with a passion for crafting user-centered solutions. With a strong focus on web technologies, I specialize in creating accessible, performant, and seamless experiences for users. I recently graduated from the ALX Software Engineering program, powered by Holberton Inc, with a specialization in Back-end development.",
     "activity": {
       "listening": "Listening to Spotify",
       "by": "by",
@@ -51,19 +51,19 @@
         "company": "Reminex",
         "badges": "Local,Full-time",
         "link": "https://www.managemgroup.com",
-        "title": "Lims Administrator & Co-Creator",
+        "title": "Lims Administrator",
         "start": "March 2014",
         "end": "Present",
         "description": "Currently excelling as a LIMS Administrator at a leading research center REMINEX SA, where I apply my technical expertise to optimize laboratory operations and facilitate scientific research."
       },
-      "universidad-nacional-del-comahue": {
-        "company": "Universidad Nacional del Comahue",
-        "badges": "Hybrid,Full-time",
-        "link": "https://www.uncoma.edu.ar/",
-        "title": "Full Stack Developer",
-        "start": "July 2021",
-        "end": "December 2023",
-        "description": "While studying for my bachelor's in software and web development, I developed and maintained web applications for my university career. I worked on the front and back end, using technologies like React, Laravel, and MySQL."
+      "Alx": {
+        "company": "alx_africa",
+        "badges": "Hybrid,Part-time",
+        "link": "https://www.alxafrica.com",
+        "title": "Software Engineer",
+        "start": "May 2023",
+        "end": "Present",
+        "description": "The ALX software engineering program is an intensive 12-month program equipping us with the skills and network to become a front-end developer or back-end developer. It includes low- and high-level programming, algorithms, and databases. It also includes system engineering and networking."
       }
     },
     "view-more": "View more"
