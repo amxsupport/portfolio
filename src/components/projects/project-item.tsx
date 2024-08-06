@@ -18,10 +18,10 @@ export function ProjectItem({ title, description, tags, image, video, link }: Pr
           <Image
             alt={title}
             className='aspect-auto w-full rounded-md object-fill shadow'
-            height={1080}
+            height={1440}
             loading='lazy'
             src={image}
-            width={1920}
+            width={2560}
           />
         ) : null}
         {video ? (

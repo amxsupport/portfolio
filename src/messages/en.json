@@ -72,13 +72,13 @@
     "title": "Projects & Apps",
     "projects": {
       "Fitness_Sphere": {
-        "description": "Fitness Sphere aims to revolutionize sports and fitness by providing accurate performance metrics and analysis using advanced computer vision and machine learning techniques. Our system allows users to upload videos or images and receive detailed insights to enhance their athletic performance."
+        "description": "FitSphere is an estimation system leveraging Computer Vision and Machine Learning to enhance the field of sports and fitness."
       },
       "E-Lyrics": {
-        "description": "English Lyric Learning Hub aims to address the challenge of language acquisition, particularly in the context of English language learning through song lyrics. The project seeks to provide users with a comprehensive platform where they can explore and engage with English song lyrics to improve their language skills"
+        "description": "E-Lyrics is a web application aimed at helping students practice their English language skills through music. Upon visiting the site, you can select a popular song and explore the meaning of words within the lyrics."
       },
       "AirBnB_clone": {
-        "description": "Project attempts to clone the the AirBnB application and website, including the database, storage, RESTful API, Web Framework, and Front End. Currently the application is designed to run with 2 storage engine models: File Storage Engine, Database Storage Engine"
+        "description": "Hbnb is a web application designed to mimic Airbnb. In this final version, I extended the project to try to recreate the feel of Airbnb's current web experience."
       }
     }
   },

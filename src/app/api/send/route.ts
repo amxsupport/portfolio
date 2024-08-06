@@ -15,7 +15,7 @@ export async function POST(request: Request) {
   try {
     const { data, error } = await resend.emails.send({
       from: 'onboarding@resend.dev',
-      to: 'gonzzaparra@gmail.com',
+      to: 'itmasterdesigne@gmail.com',
       subject: 'Message from contact form',
       react: ContactEmailTemplate({
         firstName,
