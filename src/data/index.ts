@@ -15,6 +15,7 @@ import { NodeJSIcon } from '@/components/icons/tags/nodejs';
 import { GitHubIcon } from '@/components/icons/github';
 import { LinkedInIcon } from '@/components/icons/linkedin';
 import { DiscordIcon } from '@/components/icons/discord';
+import { JupyterIcon } from '@/components/icons/tags/jupyter';
 
 export const AVATAR = {
   name: 'Abdelaaziz Amksa',
@@ -84,6 +85,10 @@ const TAGS = {
     name: 'Node.js',
     icon: NodeJSIcon,
   },
+  JUPYTER :{
+    name: 'Jupyter Notebook',
+    icon: JupyterIcon,
+  },
 };
 
 export const STACK = [
@@ -96,12 +101,13 @@ export const STACK = [
   { name: 'PHP', Icon: PHPIcon },
   { name: 'HTML', Icon: HTMLIcon },
   { name: 'CSS', Icon: CSSIcon },
+  { name: 'Jupyter Notebook' , Icon: JupyterIcon},
 ];
 
 export const PROJECTS = [
   {
     title: 'Fitness_Sphere',
-    tags: [TAGS.REACT, TAGS.NEXT, TAGS.NODE, TAGS.TYPESCRIPT, TAGS.TAILWIND, TAGS.SHADCN],
+    tags: [TAGS.REACT, TAGS.NEXT, TAGS.NODE, TAGS.TYPESCRIPT, TAGS.TAILWIND, TAGS.SHADCN, TAGS.JUPYTER],
     link: {
       github: 'https://github.com/amxsupport/Fitness_Sphere',
       preview: 'https://fitsphere.vercel.app',
