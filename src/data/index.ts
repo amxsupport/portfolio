@@ -106,7 +106,7 @@ export const PROJECTS = [
       github: 'https://github.com/amxsupport/Fitness_Sphere',
       preview: 'https://fitsphere.vercel.app',
     },
-    image: '/assets/projects/jotter.webp',
+    image: '/assets/projects/fitness_sphere.webp',
   },
   {
     title: 'E-Lyrics',
@@ -123,7 +123,7 @@ export const PROJECTS = [
       github: 'https://github.com/amxsupport/E-Lyrics',
       preview: 'https://fitsphere.vercel.app',
     },
-    image: '/assets/projects/ehwaz.webp',
+    image: '/assets/projects/ELyrics.webp',
   },
   {
     title: 'AirBnB_clone',
@@ -131,7 +131,7 @@ export const PROJECTS = [
     link: {
       github: 'https://github.com/amxsupport/AirBnB_clone_v4',
     },
-    image: '/assets/projects/zen-kicks.webp',
+    image: '/assets/projects/hbnb.webp',
   },
 ];
 

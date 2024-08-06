@@ -72,13 +72,13 @@
     "title": "Projects & Apps",
     "projects": {
       "Fitness_Sphere": {
-        "description": "A full-stack note-taking app that allows users to create, edit, delete and share notes. It also allows users to categorize notes into notebooks and search for notes."
+        "description": "Fitness Sphere aims to revolutionize sports and fitness by providing accurate performance metrics and analysis using advanced computer vision and machine learning techniques. Our system allows users to upload videos or images and receive detailed insights to enhance their athletic performance."
       },
       "E-Lyrics": {
-        "description": "A full-stack personal trainers system that allows trainers to manage their clients, workouts, and nutrition plans. It also allows clients to track their progress and communicate with their trainers."
+        "description": "English Lyric Learning Hub aims to address the challenge of language acquisition, particularly in the context of English language learning through song lyrics. The project seeks to provide users with a comprehensive platform where they can explore and engage with English song lyrics to improve their language skills"
       },
       "AirBnB_clone": {
-        "description": "A full-stack taekwondo tournaments administrator system. It allows administrators to manage tournaments, categories, competitors and judges. It also allows competitors to register for tournaments."
+        "description": "Project attempts to clone the the AirBnB application and website, including the database, storage, RESTful API, Web Framework, and Front End. Currently the application is designed to run with 2 storage engine models: File Storage Engine, Database Storage Engine"
       }
     }
   },
