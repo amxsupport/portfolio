@@ -16,6 +16,7 @@ import { GitHubIcon } from '@/components/icons/github';
 import { LinkedInIcon } from '@/components/icons/linkedin';
 import { DiscordIcon } from '@/components/icons/discord';
 import { JupyterIcon } from '@/components/icons/tags/jupyter';
+import { PythonIcon } from '@/components/icons/tags/python';
 
 export const AVATAR = {
   name: 'Abdelaaziz Amksa',
@@ -89,6 +90,11 @@ const TAGS = {
     name: 'Jupyter Notebook',
     icon: JupyterIcon,
   },
+  PYTHON :{
+    name: 'Python',
+    icon: PythonIcon,
+  },
+  
 };
 
 export const STACK = [
@@ -102,12 +108,13 @@ export const STACK = [
   { name: 'HTML', Icon: HTMLIcon },
   { name: 'CSS', Icon: CSSIcon },
   { name: 'Jupyter Notebook' , Icon: JupyterIcon},
+  { name: 'Python' , Icon: PythonIcon},
 ];
 
 export const PROJECTS = [
   {
     title: 'Fitness_Sphere',
-    tags: [TAGS.REACT, TAGS.NEXT, TAGS.NODE, TAGS.TYPESCRIPT, TAGS.TAILWIND, TAGS.SHADCN, TAGS.JUPYTER],
+    tags: [TAGS.REACT, TAGS.NODE, TAGS.JUPYTER, TAGS.HTML, TAGS.CSS, TAGS.PYTHON, TAGS.JAVASCRIPT],
     link: {
       github: 'https://github.com/amxsupport/Fitness_Sphere',
       preview: 'https://fitsphere.vercel.app',
@@ -117,13 +124,9 @@ export const PROJECTS = [
   {
     title: 'E-Lyrics',
     tags: [
-      TAGS.REACT,
-      TAGS.NEXT,
-      TAGS.LARAVEL,
+      TAGS.HTML,
       TAGS.JAVASCRIPT,
-      TAGS.PHP,
-      TAGS.TAILWIND,
-      TAGS.SHADCN,
+      TAGS.PYTHON,
     ],
     link: {
       github: 'https://github.com/amxsupport/E-Lyrics',
@@ -133,7 +136,7 @@ export const PROJECTS = [
   },
   {
     title: 'AirBnB_clone',
-    tags: [TAGS.LARAVEL, TAGS.PHP, TAGS.TAILWIND],
+    tags: [TAGS.JAVASCRIPT, TAGS.PYTHON, TAGS.CSS, TAGS.HTML],
     link: {
       github: 'https://github.com/amxsupport/AirBnB_clone_v4',
     },
