@@ -72,7 +72,7 @@
     "title": "Projects & Apps",
     "projects": {
       "Fitness_Sphere": {
-        "description": "FitSphere is an estimation system leveraging Computer Vision and Machine Learning to enhance the field of sports and fitness."
+        "description": "Fitness-Sphere is an estimation system leveraging Computer Vision and Machine Learning to enhance the field of sports and fitness."
       },
       "E-Lyrics": {
         "description": "E-Lyrics is a web application aimed at helping students practice their English language skills through music. Upon visiting the site, you can select a popular song and explore the meaning of words within the lyrics."
@@ -140,7 +140,7 @@
     "label": "Language",
     "options": {
       "en": "English",
-      "es": "Spanish"
+      "es": "French"
     }
   },
   "not-found": {

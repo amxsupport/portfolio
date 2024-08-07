@@ -1,151 +1,151 @@
 {
   "header": {
     "about": {
-      "title": "Sobre mí",
-      "label": "sobre-mi",
-      "link": "/#sobre-mi"
+      "title": "à propos",
+      "label": "à propos",
+      "link": "/#à propos"
     },
     "tech-stack": {
-      "title": "Stack de tecnologías",
-      "label": "stack-tecnologias",
-      "link": "/#stack-tecnologias"
+      "title": "Stack technologique",
+      "label": "Stack technologique",
+      "link": "/#Stack technologique"
     },
     "career": {
-      "title": "Carrera",
-      "label": "carrera",
-      "link": "/#carrera"
+      "title": "Carrière",
+      "label": "Carrière",
+      "link": "/#Carrière"
     },
     "projects": {
-      "title": "Proyectos",
-      "label": "proyectos",
-      "link": "/#proyectos"
+      "title": "Projets",
+      "label": "Projets",
+      "link": "/#Projets"
     },
     "contact": {
-      "title": "Contacto",
-      "label": "contacto",
-      "link": "/#contacto"
+      "title": "Contact",
+      "label": "Contact",
+      "link": "/#Contact"
     }
   },
   "tech-stack": {
-    "title": "Stack de tecnologías",
-    "description": "En mi camino como desarrollador web y de software, he adquirido un grupo de habilidades que me permiten trabajar en diversos proyectos. Mi área abarca el desarrollo front end, utilizando lenguajes como TypeScript, JavaScript, HTML y CSS, y frameworks tales como React y Next.js"
+    "title": "Stack technologique",
+    "description": "Mon expertise comprend le travail avec des technologies telles que Python, Django, Node.js, PostgreSQL, et j'explore constamment de nouveaux outils et techniques pour améliorer mes compétences. Je suis toujours désireux d'apprendre et de grandir dans ce domaine en constante évolution, m'efforçant de fournir des solutions efficaces et innovantes."
   },
   "about-section": {
-    "open-to-work": "Disponible para trabajar",
-    "title": "Desarrollador front end, creando soluciones centradas en el usuario. De Neuquén, Morroco 🇲🇦",
-    "description": "Apasionado sobre las tecnologías web. Mi objetivo es crear experiencias de usuario que sean accesibles, performantes, y satisfactorias. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.",
+    "open-to-work": "Ouvert au travail",
+    "title": "Développeur Backend | Basé à Marrakech, Maroc 🇲🇦",
+    "description": "Je suis un développeur backend dévoué avec une passion pour créer des solutions centrées sur l'utilisateur. Avec un fort accent sur les technologies web, je me spécialise dans la création d'expériences accessibles, performantes et fluides pour les utilisateurs. Je viens de terminer le programme ALX Software Engineering, propulsé par Holberton Inc, avec une spécialisation en développement backend.",
     "activity": {
-      "listening": "Escuchando en Spotify",
-      "by": "de",
-      "from": "del album",
-      "online": "Actualmente estoy en línea",
-      "dnd": "Actualmente estoy ocupado",
-      "idle": "Actualmente estoy ausente",
-      "offline": "Actualmente estoy desconectado... 🌌"
+      "listening": "Écouter Spotify",
+      "by": "Par",
+      "from": "De l'album",
+      "online": "Je suis actuellement en ligne",
+      "dnd": "Je suis actuellement occupé",
+      "idle": "Je suis actuellement inactif",
+      "offline": "Je suis actuellement hors ligne... 🌌"
     }
   },
   "career-section": {
-    "title": "Carrera y Trabajos",
+    "title": "Carrière et Réalisations",
     "works": {
       "runesoft": {
-        "company": "Runesoft",
-        "badges": "Remoto,Part-time",
-        "link": "https://github.com/rune-soft",
-        "title": "Desarrollador de software y Co-fundador",
-        "start": "Agosto 2023",
-        "end": "Presente",
-        "description": "Actualmente me encuentro desarrollando Runesoft como un side project. Trabajo en el front end utilizando tecnologías como React, Next.js y TypeScript. También trabajo en el back end, usando tecnologías como Laravel y Node.js."
+        "company": "Reminex",
+        "badges": "Local, à temps plein",
+        "link": "https://www.managemgroup.com",
+        "title": "Administrateur LIMS",
+        "start": "Mars 2014",
+        "end": "Présent",
+        "description": "Actuellement, j'excelle en tant qu'administrateur LIMS au sein d'un centre de recherche de premier plan, REMINEX SA, où j'applique mon expertise technique pour optimiser les opérations de laboratoire et faciliter la recherche scientifique."
       },
       "Alx": {
-        "company": "Universidad Nacional del Comahue",
-        "badges": "Híbrido,Full-time",
-        "link": "https://www.uncoma.edu.ar/",
-        "title": "Desarrollador full-stack",
-        "start": "Julio 2021",
-        "end": "Diciembre 2023",
-        "description": "Mientras estudiaba en mi Tecnicatura Universitaria en Desarrollo Web, desarrollé y mantuve aplicaciones web para mi carrera universitaria. Realicé proyectos full-stack, desarrollando en front y back end con tecnologías como React, Laravel y MySQL."
+        "company": "alx_africa",
+        "badges": "Hybride, à temps partiel",
+        "link": "https://www.alxafrica.com",
+        "title": "Ingénieur logiciel",
+        "start": "Mai 2023",
+        "end": "",
+        "description": "Le programme de génie logiciel ALX est un programme intensif de 12 mois qui nous fournit les compétences et le réseau nécessaires pour devenir développeur front-end ou back-end. Il couvre la programmation de bas et haut niveau, les algorithmes et les bases de données, ainsi que l’ingénierie des systèmes et les réseaux."
       }
     },
-    "view-more": "Ver más"
+    "view-more": "Voir plus"
   },
   "projects-section": {
-    "title": "Proyectos & Apps",
+    "title": "Projets et Applications",
     "projects": {
       "Fitness_Sphere": {
-        "description": "Una aplicación full-stack que permite a los usuarios crear, editar, eliminar y compartir notas. También permite a los usuarios categorizar sus notas y buscarlas por título y contenido."
+        "description": "Fitness-Sphere est un système d'estimation utilisant la vision par ordinateur et l'Apprentissage machine pour améliorer le domaine du sport et du fitness."
       },
       "E-Lyrics": {
-        "description": "Un sistema full-stack para personal trainers que les permite llevar a cabo la administración, asignar entrenamientos y planes de alimentación a sus alumnos. También lesp permite a los alumnos trackear su progreso y comunicarse con sus entrenadores."
+        "description": "E-Lyrics est une application web destinée à aider les étudiants à pratiquer leurs compétences en langue anglaise à travers la musique. En visitant le site, vous pouvez choisir une chanson populaire et explorer le sens des mots présents dans les paroles."
       },
       "AirBnB_clone": {
-        "description": "Una aplicación full-stack para administrar competencias y torneos de taekwondo. Les permite a los administradores organizar categorias, competidores y jueces."
+        "description": "Hbnb est une application web conçue pour imiter Airbnb. Dans cette version finale, j'ai étendu le projet pour tenter de recréer l'expérience web actuelle d'Airbnb."
       }
     }
   },
   "contact-section": {
-    "title": "Contacto",
-    "description": "Sentite libre de contactarme si tenés alguna pregunta, propuesta de proyecto, o si simplemente querés charlar! Siempre estoy abierto a nuevas oportunidades y desafíos.",
+    "title": "Contact",
+    "description": "N'hésitez pas à me contacter si vous avez des questions, des demandes de projet ou si vous souhaitez discuter d'une collaboration ! Je suis toujours ouvert aux nouvelles opportunités et défis.",
     "form": {
-      "form-description": "Por favor, completá el siguiente formulario y me pondré en contacto con vos lo antes posible.",
-      "first-name-label": "Nombre",
-      "first-name-placeholder": "Tu nombre",
-      "last-name-label": "Apellido",
-      "last-name-placeholder": "Tu apellido",
-      "email-label": "Email",
-      "email-placeholder": "Tu email",
-      "message-label": "Mensaje",
-      "message-placeholder": "Ingresa tu mensaje aquí",
-      "submit-button": "Enviar",
-      "toast-success-title": "Email enviado",
-      "toast-success-description": "Me pondré en contacto con vos lo antes posible!",
-      "toast-error-title": "Error",
-      "toast-error-description": "Hubo un error al enviar el email. Por favor, intentá nuevamente más tarde.",
-      "spam-detected-title": "Spam detectado",
-      "spam-detected-description": "Por favor, completá el formulario correctamente y sin spam. Gracias!",
+      "form-description": "Veuillez remplir le formulaire ci-dessous et je reviendrai vers vous dès que possible.",
+      "first-name-label": "Prénom",
+      "first-name-placeholder": "Votre prénom",
+      "last-name-label": "Nom de famille",
+      "last-name-placeholder": "Votre nom de famille",
+      "email-label": "E-mail",
+      "email-placeholder": "Votre e-mail",
+      "message-label": "Message",
+      "message-placeholder": "Entrez votre message",
+      "submit-button": "Envoyer",
+      "toast-success-title": "Message envoyé",
+      "toast-success-description": "Je reviendrai vers vous dès que possible !",
+      "toast-error-title": "Erreur",
+      "toast-error-description": "Une erreur est survenue lors de l'envoi de l'e-mail. Veuillez réessayer plus tard.",
+      "spam-detected-title": "Spam détecté",
+      "spam-detected-description": "Veuillez remplir le formulaire correctement et sans spam. Merci.",
       "errors": {
         "first-name": {
-          "min": "El nombre debe tener al menos 2 caracteres",
-          "max": "El nombre debe tener menos de 50 caracteres",
-          "regex": "El nombre debe contener solo letras"
+          "min": "Le prénom doit comporter au moins 2 caractères",
+          "max": "Le prénom doit contenir moins de 50 caractères",
+          "regex": "Le prénom ne doit contenir que des lettres"
         },
         "last-name": {
-          "min": "El apellido debe tener al menos 2 caracteres",
-          "max": "El apellido debe tener menos de 50 caracteres",
-          "regex": "El apellido debe contener solo letras"
+          "min": "Le nom de famille doit comporter au moins 2 caractères",
+          "max": "Le nom de famille doit contenir moins de 50 caractères",
+          "regex": "Le nom de famille ne doit contenir que des lettres"
         },
         "email": {
-          "email": "Email inválido",
-          "min": "El email debe tener al menos 5 caracteres",
-          "max": "El email debe tener menos de 100 caracteres"
+          "email": "L'e-mail doit être une adresse e-mail valide",
+          "min": "L'e-mail doit comporter au moins 5 caractères",
+          "max": "L'e-mail doit contenir moins de 100 caractères"
         },
         "message": {
-          "min": "El mensaje debe tener al menos 10 caracteres",
-          "max": "El mensaje debe tener menos de 500 caracteres",
-          "refine": "Por favor, evitá el spam en tu mensaje. Gracias!"
+          "min": "Le message doit comporter au moins 10 caractères",
+          "max": "Le message doit contenir moins de 500 caractères",
+          "refine": "Le message ne doit pas contenir de mots de spam"
         },
-        "urls": "Por favor, evitá incluir URLs en tu mensaje. Gracias!"
+        "urls": "Le message ne doit pas contenir d'URLs"
       }
     }
   },
   "footer": {
-    "made-with": "Hecho con",
+    "made-with": "Créé avec",
     "command-menu": {
-      "placeholder": "Buscar...",
-      "press": "Presioná",
-      "to-explore": "para explorar",
-      "empty": "No se encontraron resultados"
+      "placeholder": "Rechercher...",
+      "press": "Appuyez sur",
+      "to-explore": "Pour explorer",
+      "empty": "Aucun résultat trouvé"
     }
   },
   "lang-switcher": {
-    "label": "Idioma",
+    "label": "Langue",
     "options": {
-      "en": "Inglés",
-      "es": "Español"
+      "en": "Anglais",
+      "es": "français"
     }
   },
   "not-found": {
     "title": "404",
-    "description": "Felicitaciones! Encontraste una página que no existe. 🎉",
-    "button": "Volver al inicio"
+    "description": "Félicitations ! Vous avez trouvé une page qui n'existe pas. 🎉",
+    "button": "Retour à l'accueil"
   }
 }
