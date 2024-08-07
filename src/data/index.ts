@@ -17,6 +17,7 @@ import { LinkedInIcon } from '@/components/icons/linkedin';
 import { DiscordIcon } from '@/components/icons/discord';
 import { JupyterIcon } from '@/components/icons/tags/jupyter';
 import { PythonIcon } from '@/components/icons/tags/python';
+import { DjangoIcon } from '@/components/icons/tags/django';
 
 export const AVATAR = {
   name: 'Abdelaaziz Amksa',
@@ -94,6 +95,10 @@ const TAGS = {
     name: 'Python',
     icon: PythonIcon,
   },
+  DJANGO :{
+    name: 'Django',
+    icon: DjangoIcon,
+  },
   
 };
 
@@ -109,6 +114,7 @@ export const STACK = [
   { name: 'CSS', Icon: CSSIcon },
   { name: 'Jupyter Notebook' , Icon: JupyterIcon},
   { name: 'Python' , Icon: PythonIcon},
+  { name: 'Django' , Icon: DjangoIcon}
 ];
 
 export const PROJECTS = [
