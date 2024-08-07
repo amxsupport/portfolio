@@ -18,6 +18,8 @@ import { DiscordIcon } from '@/components/icons/discord';
 import { JupyterIcon } from '@/components/icons/tags/jupyter';
 import { PythonIcon } from '@/components/icons/tags/python';
 import { DjangoIcon } from '@/components/icons/tags/django';
+import { MysqlIcon } from '@/components/icons/tags/mysql';
+import { link } from 'fs';
 
 export const AVATAR = {
   name: 'Abdelaaziz Amksa',
@@ -99,11 +101,14 @@ const TAGS = {
     name: 'Django',
     icon: DjangoIcon,
   },
-  
+  MYSQL :{
+    name: 'MySql',
+    icon: MysqlIcon,
+  },
 };
 
 export const STACK = [
-  { name: 'React', Icon: ReactIcon },
+  { name: 'React', Icon: ReactIcon},
   { name: 'Next.js', Icon: NextJSIcon },
   { name: 'Laravel', Icon: LaravelIcon },
   { name: 'Node.js', Icon: NodeJSIcon },
@@ -111,6 +116,7 @@ export const STACK = [
   { name: 'JavaScript', Icon: JavaScriptIcon },
   { name: 'PHP', Icon: PHPIcon },
   { name: 'HTML', Icon: HTMLIcon },
+  { name: 'My Sql', Icon: MysqlIcon},
   { name: 'CSS', Icon: CSSIcon },
   { name: 'Jupyter Notebook' , Icon: JupyterIcon},
   { name: 'Python' , Icon: PythonIcon},
