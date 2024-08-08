@@ -79,8 +79,11 @@ export default [
   ...[
     ...tseslint.configs.recommended,
     {
+      "extends": "next",
       rules: {
         ...vercelStyleGuideTypescript.rules,
+        'react/no-unescaped-entities': 'off',
+        '@next/next/no-page-custom-font': 'off',
         '@typescript-eslint/no-non-null-assertion': 'off',
         '@typescript-eslint/no-shadow': 'off',
         '@typescript-eslint/explicit-function-return-type': 'off',
