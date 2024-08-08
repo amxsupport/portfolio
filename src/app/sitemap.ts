@@ -14,7 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/#contact',
     '/#contacto',
   ].map((route) => ({
-    url: `https://portfolio-gonzalojparra.vercel.app${route}`,
+    url: `https://portfolio-abdelazizamxa.vercel.app${route}`,
     lastModified: new Date().toISOString().split('T')[0],
   }));
 

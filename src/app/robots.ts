@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/api',
     },
-    sitemap: 'https://portfolio-gonzalojparra.vercel.app/sitemap.xml',
-    host: 'https://portfolio-gonzalojparra.vercel.app',
+    sitemap: 'https://portfolio-abdelazizamxa.vercel.app/sitemap.xml',
+    host: 'https://portfolio-abdelazizamxa.vercel.app',
   };
 }

@@ -24,7 +24,7 @@ type Props = {
 
 const title = 'Abdelaaziz Amksa | Portfolio';
 const description = 'My personal website, showcasing my work and skills.';
-const ogImage = 'https://portfolio-gonzalojparra.vercel.app/og-image.png';
+const ogImage = 'https://portfolio-abdelazizamxa.vercel.app/og-image.png';
 
 export const metadata: Metadata = {
   title,
