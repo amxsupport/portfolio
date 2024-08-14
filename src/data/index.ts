@@ -142,7 +142,7 @@ export const PROJECTS = [
     ],
     link: {
       github: 'https://github.com/amxsupport/E-Lyrics',
-      preview: 'https://fitsphere.vercel.app',
+      preview: 'https://amxsupport.github.io/E-Lyrics/web_app/templates/homepage.html',
     },
     image: '/assets/projects/ELyrics.webp',
   },
