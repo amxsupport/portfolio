@@ -36,9 +36,9 @@ The project is being developed with the following tech stack:
 
 ## Author
 
-###### **Gonzalo Parra**
+###### **@Amxsupport**
 
-- Website: 
+- Website: [@amxsupport](Https://www.amxsupport.tech)
 - GitHub: [@amxsupport](https://github.com/amxsupport)
 - LinkedIn: [@abdelaaziz.amx](https://www.linkedin.com/in/abdelaaziz-amksa-28689753/)
 
